@@ -11,7 +11,7 @@
 
 <h3 align="left">Find meh at:</h3>
 <p align="left">
-<a href="https://discord.com/users/684584287412158516" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="https://discord.com/users/684584287412158516" height="40" width="40" /></a>
+<a href="https://discord.com/users/684584287412158516" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="https://discord.com/users/684584287412158516" height="30" width="45" /></a>
 </p>
 <a href="https://www.roblox.com/users/3228179451/profile" target="blank"><img align="center" src="https://static.wikia.nocookie.net/robloxcities/images/d/d2/RobloxLogo.png/revision/latest/scale-to-width-down/985?cb=20230125021936" alt="" height="40" width="40" /></a>
 
